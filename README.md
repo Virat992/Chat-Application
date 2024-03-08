@@ -1,6 +1,6 @@
-# WhatsApp Clone
+# Chat Application
 
-Full Stack Whatsapp Clone with Flutter, Firebase & Riverpod 2.0!
+Chat application created with Flutter, Firebase & Riverpod 2.0!
 
 ## Features
 - Phone Number Authentication
